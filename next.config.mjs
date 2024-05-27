@@ -5,8 +5,8 @@ const nextConfig = {};
 export default withSentryConfig(nextConfig, {
 
 silent: true,
-org: "Abhay",
-project: "Abhay-Portfolio",
+org: "javascript-mastery",
+project: "javascript-nextjs",
 }, {
 
 widenClientFileUpload: true,
